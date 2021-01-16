@@ -1,5 +1,5 @@
 # What is OPC UA? [[1]](#1)
-
+- **OPC UA (short for Open Platform Communications United Architecture) is a data exchange standard for industrial communication (machine-to-machine or PC-to-machine communication).**
 - OPC UA is a unified architecture of information exchange for industrial communications 
     - particularly on devices 
         - within machines, 
@@ -49,7 +49,7 @@
         - standardised
 
 
-- Why We Need VDMA OPC UA Companion Specification! [[2]](#2)
+# Why We Need VDMA OPC UA Companion Specification! [[2]](#2)
 
 - Together with Mechanical Engineering Companies,
     - the VDMA is developing
@@ -86,10 +86,10 @@
                         - and OEE improvements.
                             - What Is OEE? OEE (Overall Equipment Effectiveness) is a “best practices” metric that identifies the percentage of planned production time that is truly productive. An OEE score of 100% represents perfect production: manufacturing only good parts, as fast as possible, with no downtime.
 
-- OPC UA Companion Specifications defines the form in which machine provides certain informations, which makes
+- **OPC UA Companion Specifications defines the form in which machine provides certain informations**, which makes
     - **integrating** the machines into an existing production environment
     - and **configuring** the machines much easy
-        - which in turn makes enginners' work, muchh more efficient
+        - which in turn makes enginners' work, much more efficient
         - That's how Industry 4.0 works
 
 
