@@ -17,8 +17,6 @@
         - massive cloud infrastructures and 
         - even mobile devices.
 
-#### An embedded controller is a microcontroller in computers that handles various system tasks that the operating system does not handle  [[2]](#2)
-
 - OPC UA is equally suited over 
     - closed network
     - or utilised via the internet
@@ -55,5 +53,4 @@
 <a id="1">[1]</a> 
 https://www.youtube.com/watch?v=-tDGzwsBokY
 
-<a id="2">[2]</a> 
-https://en.wikipedia.org/wiki/Embedded_controller
+
