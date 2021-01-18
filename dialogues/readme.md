@@ -25,7 +25,7 @@
                         - condition monitoring
                         - predictive maintainence 
                         - and OEE improvements.
-                            - What Is OEE? OEE (Overall Equipment Effectiveness) is a “best practices” metric that identifies the percentage of planned production time that is truly productive. An OEE score of 100% represents perfect production: manufacturing only good parts, as fast as possible, with no downtime.
+                            
 
 - **OPC UA Companion Specifications defines the form in which machine provides certain informations**, which makes
     - **integrating** the machines into an existing production environment
