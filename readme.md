@@ -105,5 +105,8 @@ https://www.youtube.com/watch?v=odDQ83bzoWE
 <a id="3">[3]</a>
 https://www.leanproduction.com/oee.html
 
+<a id="4">[4]</a>
+https://www.spotlightmetal.com/iot-basics-what-is-opc-ua-a-842878/
+
 
 
