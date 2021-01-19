@@ -39,7 +39,7 @@
 - This brings us to our next question, **Objectives**.
 - The main objective is to put in place an **efficient** way of querying this huge graph.
 - There could be a 1000 devices connected to a OPC server in one factory. On attempting to connect another factory, there would be another thousands of interoperable devices making this a huge graph.
-- In order to query this huge graph, there is already an existent non publicly available query language for OPC UA, which is flawed.
+- In order to query this huge graph, there is already an existent non publicly available query language for OPC UA, which is extremely difficult to be used.
 - Through this paper, the author would attempt 
     - to query OPC UA graphs through SparQl
     - setup rules to transform OPC UA queries to SparQl
@@ -47,16 +47,14 @@
     - Bypass the flaws through SparQl
 
 - So, it is clear that OPC UA produces huge connected graphs
+- We'll move to the next point **Research Questions**
 - So, naturally the question arrises to test the capability of OPC UA query system to find out if it is capable to query such huge connected graphs.
 - There are flaws in the OPC UA query system.
 - The concepts used in the OPC UA query system, can those be replaced by OWL? How can OWL be integrated into the automation standard of OPC UA?
 - Now, if we have to replace the OPC UA query system, altogether, what would be our best option out of the following?
-- We have to take care of the fact that the chosen query language 
+- We have to take care of the fact that it may come as a requirement to transform OPC UA queries to the chosen query language.
 
-- Now, how did the author come to the conclusion of using SparQl? That was indeed the research question to choose the right query language out of Cypher, Gremlin, GraphQl and SparQl..
+- The next question could be, How can smart services be integrated into the future organisational architecture?
 
-How can smart services be integrated into the future organisational architecture?
 
-How can Owl be integrated into the automation standard OPC UA
 
-OPC UA query system capable to query such large connected graph
