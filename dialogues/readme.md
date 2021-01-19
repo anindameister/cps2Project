@@ -49,7 +49,7 @@
 - So, it is clear that OPC UA produces huge connected graphs
 - We'll move to the next point **Research Questions**
 - So, naturally the question arrises to test the capability of OPC UA query system to find out if it is capable to query such huge connected graphs.
-- There are flaws in the OPC UA query system.
+- There are implementation difficulties in the OPC UA query system.
 - The concepts used in the OPC UA query system, can those be replaced by OWL? How can OWL be integrated into the automation standard of OPC UA?
 - Now, if we have to replace the OPC UA query system, altogether, what would be our best option out of the following?
 - We have to take care of the fact that it may come as a requirement to transform OPC UA queries to the chosen query language.
